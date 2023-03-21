@@ -1,3 +1,5 @@
+.encryptedKey.json
+
 # Logs
 logs
 *.log
